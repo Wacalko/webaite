@@ -1,0 +1,9 @@
+body{
+    background: url(foods/hh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 30px;
+}
+
